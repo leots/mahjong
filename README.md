@@ -1,7 +1,7 @@
 Mahjong
 =======
 
-A mahjong game with HTML, CSS3 and JavaScript!
+A simple mahjong game with HTML, CSS3 and JavaScript!
 
 You can play it [here](http://icyhippo.com/apps/mahjong/).
 
